@@ -1,0 +1,1 @@
+/usr/bin/c++    -DEMBED -O3 -DNDEBUG   CMakeFiles/Test_mask.dir/mask_lyc.cpp.o  -o Test_mask  -L/home/lyc/workspace/mask_lyc/test/../resource -rdynamic -lm -ldl -Wl,-rpath,/home/lyc/workspace/mask_lyc/test/../resource 
